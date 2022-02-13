@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/NoahBday.icon.png-ffe984e295444b75a234f8ebfcea5e93.stex"
+path="res://.import/NoahBday.icon.png-e12440bab38c078f9082afd61ca95e44.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://build/NoahBday.icon.png"
-dest_files=[ "res://.import/NoahBday.icon.png-ffe984e295444b75a234f8ebfcea5e93.stex" ]
+source_file="res://build/Stoephu/NoahBday.icon.png"
+dest_files=[ "res://.import/NoahBday.icon.png-e12440bab38c078f9082afd61ca95e44.stex" ]
 
 [params]
 
