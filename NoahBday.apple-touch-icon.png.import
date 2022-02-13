@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/NoahBday.apple-touch-icon.png-6bf65c85ed9f18d8f1d1f38bf7f57d17.stex"
+path="res://.import/NoahBday.apple-touch-icon.png-b38b43d7b5bdad78b880a5cae53d0352.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://build/Stoephu/NoahBday.apple-touch-icon.png"
-dest_files=[ "res://.import/NoahBday.apple-touch-icon.png-6bf65c85ed9f18d8f1d1f38bf7f57d17.stex" ]
+source_file="res://build/NoahBday.apple-touch-icon.png"
+dest_files=[ "res://.import/NoahBday.apple-touch-icon.png-b38b43d7b5bdad78b880a5cae53d0352.stex" ]
 
 [params]
 
